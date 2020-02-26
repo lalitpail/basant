@@ -1,0 +1,21 @@
+.orderContainer {
+    margin: 0px 10px;
+    border-radius: 10px;
+}
+.orderContainer h6{
+    font-family: "BebasNeueRegular";
+    padding-top: 6px;
+}
+.orderContainer h6, .orderContainer h1{
+    color: #fff;
+    text-align: center;
+} 
+p.moreOptions {
+    width: 100%;
+    background: #ece7e7;
+    text-align: center;
+    padding: 7px 0px;
+    border: 1px solid #c1c1c1;
+    color: #6b6a6a;
+    cursor: pointer;
+}

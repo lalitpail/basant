@@ -1,0 +1,12 @@
+h4.moreOptions {
+    width: 100%;
+    background: #ece7e7;
+    text-align: center;
+    padding: 7px 0px;
+    border: 1px solid #c1c1c1;
+    color: #6b6a6a;
+    cursor: pointer;
+}
+.w-80{
+    width: 80%;
+}

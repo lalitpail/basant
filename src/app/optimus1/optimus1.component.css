@@ -1,0 +1,14 @@
+h2.headerTxt {
+    text-align: center;
+    letter-spacing: 18px;
+}
+section.menuList{
+    width: 100%;
+    margin-top: 5px;
+}
+section.menuList p{
+    padding: 11px 0px;
+    background: #dc3545;
+    color: #fff;
+    text-align: center;
+}
