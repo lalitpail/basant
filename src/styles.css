@@ -28,6 +28,13 @@ h1,h2,h3,h4,h5,h6{
     padding: 0px;
     margin: 0px;
 }
+#optimumWrapper{
+    margin-top: 2rem;
+}
+.defaultGrey{
+    color: #495057;
+}
+
   /* Buttons' focus effect */
   button.btn.btn-primary.btnSubmit {
     width: 100%;
