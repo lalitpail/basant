@@ -30,6 +30,7 @@ h1,h2,h3,h4,h5,h6{
 }
 #optimumWrapper{
     margin-top: 2rem;
+    padding-bottom: 3rem;
 }
 .defaultGrey{
     color: #495057;

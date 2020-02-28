@@ -1,0 +1,16 @@
+.menu ul{
+    position: relative;
+    width: 100%;
+    display: block;
+    background: #005180;
+}
+.menu ul li{
+    display: inline-block;
+    width: 5rem;
+    color: #fff;
+    padding: 15px 0px;
+    margin-left: 15px;
+}
+.active {
+    color: orange;
+  }
