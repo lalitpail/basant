@@ -68,3 +68,11 @@ h1,h2,h3,h4,h5,h6{
 	width: 32px;
 	height: 34px;
 }
+select.form-control {
+    color: #ffffff !important;
+    background-color: #dc3545 !important;
+}
+select.form-control option{
+    color: #495057 !important;
+    background-color: #fff !important;
+}
